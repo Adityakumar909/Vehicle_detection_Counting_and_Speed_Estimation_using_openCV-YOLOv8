@@ -71,12 +71,12 @@ pip install -r requirements.txt
 - OpenCV for image processing
 
 ## License
-This project is licensed under the MIT License. See `LICENSE` for details.
+This project is licensed under the License. See `LICENSE` for details.
 
 ## Contact
-For any questions or issues, feel free to open an issue or contact me at `your.email@example.com`.
+For any questions or issues, feel free to open an issue or contact me at `210886@kit.ac.in`.
 
 ---
-**Author:** Your Name  
-**GitHub:** [yourusername](https://github.com/yourusername/)
+**Author:** Aditya Kumar
+**GitHub:** [yourusername](https://github.com/Adityakumar909/)
 

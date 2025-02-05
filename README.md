@@ -1,5 +1,4 @@
 ![th1](https://github.com/AarohiSingla/Speed-detection-of-vehicles/assets/60029146/139d8cc9-32ab-4777-89d8-cb179c39fedd)
-![th2](https://github.com/Adityakumar909/Vehicle_detection_using_openCV-YOLOv8/blob/main/output.avi)
 # Vehicle Detection and Speed Estimation using OpenCV & YOLOv8
 
 ## Overview
